@@ -13,6 +13,11 @@
     def getArea
        @width * @height * @length
     end
+  #   if (h >= 1)
+  #     return "Height is bigger than 1"
+  #   end
+  # else
+  #   return "Height is not bigger than 1"
  end
 
  # create an object
@@ -20,4 +25,5 @@
 
  # call instance methods
  a = furniture.getArea()
+ # h =
  puts "Area of the box is : #{a}"
