@@ -26,4 +26,4 @@
  # call instance methods
  a = furniture.getArea()
  # h =
- puts "Area of the box is : #{a}"
+ puts "Area of the furniture is : #{a}"
